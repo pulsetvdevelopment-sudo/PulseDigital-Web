@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="project/images/logoPulseDigital.png" alt="Pulse Digital Logo" width="100" />
   <h1>Pulse Digital — IPTV Premium Landing Page</h1>
   <p>A modern, high-converting landing page for a premium IPTV streaming service.</p>
 
